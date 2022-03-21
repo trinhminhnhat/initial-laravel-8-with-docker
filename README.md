@@ -33,4 +33,4 @@ DB_PASSWORD=root
 ```
 3. Go to localhost:8000 and see the result
 ## Author
-[**Trinh Minh Nhat**](https://github.com/trinhminhnhat)
+[**Trịnh Minh Nhật**](https://github.com/trinhminhnhat)
